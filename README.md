@@ -1,4 +1,4 @@
-Tampermonkey/Geasemonkey wrapper script for Jason Longs isometric contribution extension
+Tampermonkey/Greasemonkey wrapper script for Jason Longs isometric contribution extension
 
 "... lets you toggle between your regular GitHub contribution chart and an isometric pixel art version ..."
 
